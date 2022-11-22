@@ -63,6 +63,7 @@ RUN apt-get update && apt-get install -y \
   pylint3 \
   python3-argcomplete \
   python3-colcon-common-extensions \
+  python3-colcon-mixin \
   python3-pip \
   python3-rosdep \
   python3-vcstool \
